@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/strip_ad_container"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:elevation="3dp"
+    android:layout_height="match_parent">
+<ImageView
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:scaleType="fitCenter"
+    android:id="@+id/strip_ad_image"
+    android:src="@drawable/tdilcs_office"/>
+</LinearLayout>

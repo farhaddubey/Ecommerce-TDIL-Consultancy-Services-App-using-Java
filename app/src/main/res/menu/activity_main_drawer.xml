@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/order"
+            android:title="My Orders" />
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/cart"
+            android:title="My Cart" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/wishlist"
+            android:title="My WishList" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/account"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_website"
+            android:icon="@drawable/website"
+            android:title="Websites" />
+        <item
+            android:id="@+id/nav_software"
+            android:icon="@drawable/software"
+            android:title="Software" />
+        <item
+            android:id="@+id/nav_design"
+            android:icon="@drawable/design"
+            android:title="Designs" />
+        <item
+        android:id="@+id/nav_ads"
+        android:icon="@drawable/ads"
+        android:title="Digital Marketing" />
+        <item
+        android:id="@+id/nav_entrances"
+        android:icon="@drawable/entrance"
+        android:title="Entrances" />
+        <item
+            android:id="@+id/nav_documentation"
+            android:icon="@drawable/docs"
+            android:title="Documentation" />
+        <item
+        android:id="@+id/nav_flats"
+        android:icon="@drawable/flat"
+        android:title="Apartments" />
+        <item
+            android:id="@+id/nav_skills"
+            android:icon="@drawable/skills"
+            android:title="Skills" />
+        <item
+            android:id="@+id/nav_life_services"
+            android:icon="@drawable/life_services"
+            android:title="Life Services" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+
+    </group>
+</menu>

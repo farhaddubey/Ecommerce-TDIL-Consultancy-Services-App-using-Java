@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btn_color_2">@color/material_on_primary_emphasis_medium</color>
+    <color name="text_hint">#59FBFBFB</color>
+    <color name="btn_color">#CB0227F7</color>
+    <color name="input_bg">#001E2C</color>
+
+</resources>
